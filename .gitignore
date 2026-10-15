@@ -17,3 +17,18 @@ runs/p5_rootflip/
 !runs/rnucleus.log
 .DS_Store
 __pycache__/
+
+# cascade/: run directories and GRASP output are generated, not tracked
+cascade/*/
+!cascade/fac_ref/
+!cascade/figures/
+cascade/fac_ref/t/
+cascade/fac_ref/*.json
+cascade/*.w
+cascade/*.c
+cascade/*.cm
+cascade/*.csum
+cascade/*.clog
+cascade/*.rmx
+cascade/*.log
+cascade/isodata
