@@ -17,7 +17,8 @@ grasp-kr-3p-auger/
 ├── cascade/            Kr 2p cascade, steps 1-2 (Kr+ 2p-1 -> Kr2+ -> Kr3+) with core and valence correlation,
 │                       spectator shifts, and single-configuration runs of the Kr4+ to Kr6+ configurations
 ├── kr5_quaternary/     Kr4+ -> Kr5+ step: single-configuration GRASP vs FAC
-└── CITATION.cff
+├── CITATION.cff
+└── LICENSE
 ```
 
 Each folder has its own README with the method, the run order and the limitations.
@@ -63,3 +64,7 @@ Run directories, GRASP scratch files and logs are not tracked (see `.gitignore`)
 
 - C. Froese Fischer, G. Gaigalas, P. Jönsson, J. Bieroń, Comput. Phys. Commun. **237**, 184 (2019) — GRASP2018.
 - P. Jönsson et al., *An introduction to relativistic theory as implemented in GRASP*, Atoms **11**, 7 (2023).
+
+## License
+
+BSD 3-Clause, see [`LICENSE`](LICENSE).

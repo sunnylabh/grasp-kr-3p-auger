@@ -7,6 +7,7 @@ authors:
   - given-names: Sunny Kumar
     family-names: Labh
 repository-code: "https://github.com/sunnylabh/grasp-kr-3p-auger"
+license: BSD-3-Clause
 references:
   - type: article
     title: "GRASP2018 - A Fortran 95 version of the General Relativistic Atomic Structure Package"
