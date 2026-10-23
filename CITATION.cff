@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "grasp-kr-3p-auger: GRASP2018 calculations for the krypton 2p Auger cascade"
+abstract: "GRASP2018 calculations of the Kr 3p binding energies, the M2,3-M4,5N2,3 Coster-Kronig energies and the Kr 2p Auger cascade energies, as a cross-check of FAC calculations."
+authors:
+  - given-names: Sunny Kumar
+    family-names: Labh
+repository-code: "https://github.com/sunnylabh/grasp-kr-3p-auger"
+references:
+  - type: article
+    title: "GRASP2018 - A Fortran 95 version of the General Relativistic Atomic Structure Package"
+    authors:
+      - family-names: Froese Fischer
+        given-names: C.
+      - family-names: Gaigalas
+        given-names: G.
+      - family-names: Jönsson
+        given-names: P.
+      - family-names: Bieroń
+        given-names: J.
+    journal: "Computer Physics Communications"
+    volume: 237
+    start: 184
+    year: 2019
